@@ -30,18 +30,18 @@ Comment	Sentiment
 "Okay product"	Neutral
 
 ## Data Visualization
-1️. Sentiment Distribution Graph
+1️. Sentiment Distribution Graph:
 Shows how many comments belong to each sentiment class.
 <img width="721" height="492" alt="image" src="https://github.com/user-attachments/assets/41ea42a7-b9f9-4c0e-9669-f72836c8cf8e" />
 
-2. Confusion Matrix
+2. Confusion Matrix:
 Displays model performance by comparing predicted vs actual values.
 <img width="654" height="496" alt="image" src="https://github.com/user-attachments/assets/d4bb6f6a-6af9-486a-ae52-d7103619d146" />
 
-3️. Most Frequently Used Words
+3️. Most Frequently Used Words:
 <img width="907" height="585" alt="image" src="https://github.com/user-attachments/assets/b0ec25ca-6476-4d0b-a9a3-5105630dc4bf" />
 
-4. Distribution of post lengths
+4. Distribution of post lengths:
 <img width="697" height="489" alt="image" src="https://github.com/user-attachments/assets/d7a76d61-e61f-4d10-adf0-33a0153cc3e8" />
 
 Displays predicted sentiment
@@ -51,4 +51,4 @@ Input:
 "I really love this product!"
 
 Output:
-Positive 😊
+Positive 
