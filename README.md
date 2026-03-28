@@ -44,7 +44,6 @@ Displays model performance by comparing predicted vs actual values.
 4. Distribution of post lengths
 <img width="697" height="489" alt="image" src="https://github.com/user-attachments/assets/d7a76d61-e61f-4d10-adf0-33a0153cc3e8" />
 
-Analyze button
 Displays predicted sentiment
 Example:
 
